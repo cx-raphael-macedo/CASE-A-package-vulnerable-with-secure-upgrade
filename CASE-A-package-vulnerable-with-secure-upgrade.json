@@ -1,0 +1,9 @@
+{
+  "name": "sca-proactive-vulnerable-with-secure-upgrade",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Current version vulnerable; higher secure version available (standard upgrade scenario).",
+  "dependencies": {
+    "lodash": "4.17.19"
+  }
+}
